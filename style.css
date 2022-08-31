@@ -1,7 +1,5 @@
 button {
-	display: flex;
-	align-items: center;
-	margin: 300px auto;
+	margin: 100px 100px;
 	background-color:black;
 	position: relative;
 	height: 50px;
@@ -9,7 +7,7 @@ button {
 	border: none;
 	font-size: 20px;
 	color: white;
-	border-radius: 2px;
+	border-radius: 10px;
 	overflow: hidden;
 }
 
